@@ -247,9 +247,11 @@ The orchestrator can share insights between projects:
 ## 📚 Core Files
 
 - `send-claude-message.sh` - Simplified agent communication script
+- `send-gemini-message.sh` - Simplified agent communication script
 - `schedule_with_note.sh` - Self-scheduling functionality
 - `tmux_utils.py` - Tmux interaction utilities
 - `CLAUDE.md` - Agent behavior instructions
+- `GEMINI.md` - Agent behavior instructions
 - `LEARNINGS.md` - Accumulated knowledge base
 
 ## 🤝 Contributing & Optimization
